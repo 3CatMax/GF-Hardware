@@ -1,5 +1,5 @@
 # ANNOUNCEMENT
-I have launched a new site dedictated to the advancement of Open Source related projects targeted to the Glowforge platform.  
+I have launched a new site dedictated to the advancement of Open Source related projects targeting the Glowforge platform.  
 It can be found here: [https://community.openglow.org](https://community.openglow.org)
   
   
