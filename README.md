@@ -1,3 +1,11 @@
+# ANNOUNCEMENT
+I have launched a new site dedictated to the advancement of Open Source related projects targeted to the Glowforge platform.  
+It can be found here: [https://community.openglow.org](https://community.openglow.org)
+  
+  
+  
+  .
+  
 This site is intended to serve as a repository for knowledge learned about the hardware and firmware for Glowforge's Basic and Pro model CNC lasers.  
   
 The intended use of this information is to allow owners of the product to investigate the innerworkings of the device they own.
